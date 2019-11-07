@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+    <title><%= title %></title>
+    <!--响应式框架-->
+    <link rel="stylesheet" type="text/css" href="../public/stylesheets/bootstrap.css">
+    <!--banner大图基础样式-->
+    <link rel="stylesheet" href="../public/stylesheets/slick.css">
+    <!--页面滚动基础样式-->
+    <link rel="stylesheet" href="../public/stylesheets/jquery.fullPage.css"/>
+    <!--图片和滚屏样式-->
+    <link rel="stylesheet" href="../public/stylesheets/index.css">
+
+</head>
+<body>
+<!-- 内容 -->
+<div id="index_main" class="index_main">
+    <!--导航-->
+    <div class="section section1">
+        <div class="index_banner">
+            <div class="item">
+                <div class="items scaleBg" style="background-image: url(../public/images/1.jpg);">
+                </div>
+            </div>
+            <div class="item">
+                <div class="items scaleBg" style="background-image: url(../public/images/2.jpg);"></div>
+            </div>
+            <div class="item">
+                <div class="items scaleBg" style="background-image: url(../public/images/3.jpg);"></div>
+            </div>
+            <div class="item">
+                <div class="items scaleBg" style="background-image: url(../public/images/4.jpg);"></div>
+            </div>
+            <div class="item">
+                <div class="items scaleBg" style="background-image: url(../public/images/5.jpg);"></div>
+            </div>
+            <div class="item">
+                <div class="items scaleBg" style="background-image: url(../public/images/6.jpg);"></div>
+            </div>
+            <div class="item">
+                <div class="items scaleBg" style="background-image: url(../public/images/7.jpg);"></div>
+            </div>
+        </div>
+        <div class="left slick_txt">
+            <div class="prev slick_arrow"></div>
+        </div>
+        <div class="right slick_txt">
+            <div class="next slick_arrow"></div>
+        </div>
+        <div class="number">
+            <div class="inner clearfix">
+                <span class="active">01</span>
+                <span>02</span>
+                <span>03</span>
+                <span>04</span>
+                <span>05</span>
+                <span>06</span>
+                <span>07</span>
+            </div>
+        </div>
+    </div>
+    <div id="logo" style="position: absolute; left:50%; top:50%; transform: translate(-50%, -50%);">
+        <img src="../public/images/logo.png"/>
+        <div id="login">
+            <input type="button" value="Login" title="登录" onclick="location='/login'"
+                   style="width: 130px; height: 50px; float:left; margin-left: 600px; margin-top: 120px; border: none; border-radius: 10px; font-family: Arial; font-size: 18px; color: white; background-color: #777777"/>
+            <input type="button" value="Register" title="注册" onclick="location='/reg'"
+                   style="width: 130px; height: 50px; float: right; margin-right: 600px; margin-top: 120px; border: none; border-radius: 10px; font-family: Arial; font-size: 18px; color: white; background-color: #777777"/>
+        </div>
+    </div>
+</div>
+<script src="../public/javascripts/jquery.min.js"></script>
+<script src="../public/javascripts/jquery.fullPage.min.js"></script>
+<script src="../public/javascripts/index_slick.js"></script>
+<script src="../public/javascripts/index.js"></script>
+
+</body>
+</html>

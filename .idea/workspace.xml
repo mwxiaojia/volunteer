@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a9f922f-52a1-49e9-ade0-44c13c3d8ef8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1SgrZhLL3mKlQ0PEQDbIp6eVxvU" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.16.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/stylesheets" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Documents\WebstormProjects\志愿者\public\stylesheets" />
+      <recent name="D:\Documents\WebstormProjects\志愿者\public\javascripts" />
+      <recent name="D:\Documents\WebstormProjects\志愿者\node_modules\dao" />
+      <recent name="D:\Documents\WebstormProjects\318story\public\images" />
+      <recent name="D:\Documents\WebstormProjects\318story\views" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Documents\WebstormProjects\志愿者\public\stylesheets" />
+      <recent name="D:\Documents\WebstormProjects\志愿者\views" />
+      <recent name="D:\Documents\WebstormProjects\志愿者\routes" />
+      <recent name="D:\Documents\WebstormProjects\318story\public\images" />
+      <recent name="D:\Documents\WebstormProjects\318story\routes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a9f922f-52a1-49e9-ade0-44c13c3d8ef8" name="Default Changelist" comment="" />
+      <created>1571996136680</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571996136680</updated>
+      <workItem from="1571996180575" duration="14711000" />
+      <workItem from="1572332600985" duration="61000" />
+      <workItem from="1572332729894" duration="889000" />
+      <workItem from="1572342663884" duration="27000" />
+      <workItem from="1572959325160" duration="1245000" />
+      <workItem from="1572961029911" duration="12430000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/routes/index.js</url>
+          <line>67</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
